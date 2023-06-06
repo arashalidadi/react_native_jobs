@@ -1,6 +1,8 @@
 const COLORS ={
     lightWhite: "#FAFAFC",
     white: "#F3F4F8",
+    secondary: "#444262",
+    primary: "#312651",
 };
 
 const SIZES = {
@@ -12,4 +14,11 @@ const SIZES = {
     xxLarge: 32,
   };
 
-export { COLORS,SIZES };
+  const FONT = {
+    regular: "DMRegular",
+    medium: "DMMedium",
+    bold: "DMBold",
+  };
+  
+
+export { COLORS,SIZES,FONT };

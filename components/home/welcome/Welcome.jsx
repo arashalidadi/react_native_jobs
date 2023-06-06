@@ -1,12 +1,31 @@
-import { View, Text } from 'react-native'
-import React from 'react'
+import {
+  View,
+  Text,
+  TextInput,
+  Image,
+  FlatList,
+  TouchableOpacity,
+} from "react-native";
+import { useState } from "react";
+import styles from "./Welcome.style";
 
 const Welcome = () => {
   return (
     <View>
-      <Text>Welcome</Text>
-    </View>
-  )
-}
+      <View style={styles.container}>
+        <Text style={styles.userName}>Hello Arasham</Text>
+        <Text style={styles.welcomeMessage}>Find your perfect job</Text>
+      </View>
 
-export default Welcome
+      <View style={styles.searchContainer}>
+        <View style={styles.searchWrapper}>
+          <TextInput 
+          style={styles.searchInput}
+          />
+        </View>
+      </View>
+    </View>
+  );
+};
+
+export default Welcome;
