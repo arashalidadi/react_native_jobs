@@ -1,5 +1,5 @@
 import {COLORS,SIZES} from './theme';
-import profile from './images';
+import images from './images';
 import icons  from './icons';
 
-export { COLORS,SIZES,profile,icons };
+export { COLORS,SIZES,images,icons };
