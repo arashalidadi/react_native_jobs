@@ -54,50 +54,6 @@
             "job_max_salary": null,
             "job_salary_currency": null,
             "job_salary_period": null,
-            "job_highlights": {
-                "Qualifications": [
-                    "Bachelor's Degree or equivalent years of relevant experience",
-                    "6+ years of experience with the design and development of single page web applications",
-                    "Good proficiency in JavaScript, including DOM manipulation and the JavaScript object model",
-                    "Thorough understanding of React.js and its core principles",
-                    "Experience and ability to support and lead project tasks and responsibilities",
-                    "Experience with React workflows and Lifecycle",
-                    "Experience in Props drilling and data sharing among React components",
-                    "Familiarity with newer specifications of ES6",
-                    "Familiarity with React patterns and state management libraries (such as Flux or Redux)",
-                    "Good knowledge in HTML5, CSS3 and Less/Sass",
-                    "Good understanding of any CSS frameworks (Bootstrap or Material Design)",
-                    "Familiar with responsive web design",
-                    "Experience with RESTful APIs concepts and its integration with React.js",
-                    "Familiar with web accessibility guidelines",
-                    "Knowledge of modern authorization mechanisms, such as JSON Web Token",
-                    "Ability to understand business requirements and translate them into technical requirements",
-                    "Familiarity with code versioning tools(such as Git)",
-                    "Critical thinker and problem-solving skills",
-                    "Team player",
-                    "Good time-management skills",
-                    "Great interpersonal and communication skills",
-                    "Nice to have",
-                    "Knowledge of Node.js",
-                    "Experience with common front-end development tools such as Babel, Webpack, NPMetc",
-                    "Experience with data structure libraries (e.g. Immutable.js)",
-                    "Must live a commutable distance to one of the following cities: Atlanta, GA; Austin, TX; Boston, MA; Charlotte, NC; Chicago, IL; Cincinnati, OH; Cleveland, OH; Dallas, TX; Detroit, MI; Gilbert, AZ; Houston, TX; Indianapolis, IN; Kansas City, MO; Lake Mary, FL; Mechanicsburg, PA; Miami, FL; Minneapolis, MN; Nashville, TN; Philadelphia, PA; Phoenix, AZ; Pittsburgh, PA; Sacramento, CA; St. Louis, MO; San Diego, CA; San Juan, Puerto Rico; Seattle, WA; Tallahassee, FL; Tampa, FL; or be willing to relocate to one of the following USDC locations: Gilbert, AZ; Lake Mary, FL; Mechanicsburg, PA",
-                    "Ability to travel 10%, on average, based on the work you do and the clients and industries/sectors you serve"
-                ],
-                "Responsibilities": [
-                    "Developing new user-facing features using React.js",
-                    "Building reusable components and front-end libraries for future use",
-                    "Translating designs and wireframes into high quality code",
-                    "Optimizing components for maximum performance across a vast array of web-capable devices and browsers",
-                    "Participate in daily stand-ups, bi-weekly sprint planning, and sprint retrospectives for the team",
-                    "Sales Excellence & Service Excellence | delivers sales and service strategies and plans, operating model definition, incentive design and implementation, and operations support for digitally-enabled sales, channel, and customer service capabilities"
-                ],
-                "Benefits": [
-                    "The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs",
-                    "A reasonable estimate of the current range is $102,750k to $171,250k",
-                    "You may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance"
-                ]
-            },
             "job_job_title": "Senior",
             "job_posting_language": "en",
             "job_onet_soc": "15113400",
@@ -164,82 +120,6 @@
             "job_posting_language": "en",
             "job_onet_soc": "15113400",
             "job_onet_job_zone": "3"
-        },
-        {
-            "employer_name": "Upwork",
-            "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
-            "employer_website": "http://www.elance.com",
-            "employer_company_type": "Computer Services",
-            "job_publisher": "Upwork",
-            "job_id": "D1EyE6xSnSUAAAAAAAAAAA==",
-            "job_employment_type": "CONTRACTOR",
-            "job_title": "React Developer to build website",
-            "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Developer-build-website_~01dd3266ea00396bc5/",
-            "job_apply_is_direct": true,
-            "job_apply_quality_score": 0.683,
-            "job_description": "Hello, I'm needing a website built in React. I have the figma framework already so I'm mostly needing you to setup the code and launch the website.\n\nBasically needing the following pages built.\n\n1) Landing page\n\n2) Contact Page\n\n3) What we do page\n\n4) Past work page (very minimal atm)\n\n5) Past Work inner page\n\n6) Blog Page\n\n7) Blog inner page (very minimal atm)\n\nPretty standard pages, and the website is fairly minimalistic so the css isn't extremely tough.\n\nIf working with you goes well then there will be other work in the future.\n\nRequirements:\n\n- Fluent at English\n\n- Willing to communicate through calls\n\n- Excellent at React\n\n- Excellent at HTML/CSS",
-            "job_is_remote": true,
-            "job_posted_at_timestamp": 1686067116,
-            "job_posted_at_datetime_utc": "2023-06-06T15:58:36.000Z",
-            "job_city": null,
-            "job_state": null,
-            "job_country": "US",
-            "job_latitude": 37.09024,
-            "job_longitude": -95.71289,
-            "job_benefits": null,
-            "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=D1EyE6xSnSUAAAAAAAAAAA%3D%3D",
-            "job_offer_expiration_datetime_utc": null,
-            "job_offer_expiration_timestamp": null,
-            "job_required_experience": {
-                "no_experience_required": false,
-                "required_experience_in_months": null,
-                "experience_mentioned": false,
-                "experience_preferred": false
-            },
-            "job_required_skills": [
-                "Landing Page",
-                "Website",
-                "Google Analytics",
-                "React",
-                "JavaScript",
-                "CSS",
-                "Web Development",
-                "HTML5",
-                "Web Design",
-                "Web Application"
-            ],
-            "job_required_education": {
-                "postgraduate_degree": false,
-                "professional_certification": false,
-                "high_school": false,
-                "associates_degree": false,
-                "bachelors_degree": false,
-                "degree_mentioned": false,
-                "degree_preferred": false,
-                "professional_certification_mentioned": false
-            },
-            "job_experience_in_place_of_education": false,
-            "job_min_salary": null,
-            "job_max_salary": null,
-            "job_salary_currency": null,
-            "job_salary_period": null,
-            "job_highlights": {
-                "Qualifications": [
-                    "Fluent at English",
-                    "Willing to communicate through calls",
-                    "Excellent at React",
-                    "Excellent at HTML/CSS"
-                ],
-                "Responsibilities": [
-                    "Basically needing the following pages built"
-                ]
-            },
-            "job_job_title": null,
-            "job_posting_language": "en",
-            "job_onet_soc": "15113400",
-            "job_onet_job_zone": "3",
-            "job_naics_code": "541511",
-            "job_naics_name": "Custom Computer Programming Services"
         }
     ]
 }
