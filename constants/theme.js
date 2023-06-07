@@ -4,6 +4,7 @@ const COLORS ={
     secondary: "#444262",
     primary: "#312651",
     tertiary: "#FF7754",
+    gray2: "#C1C0C8",
 };
 
 const SIZES = {

@@ -8,9 +8,12 @@ import {
 } from "react-native";
 import { useState } from "react";
 import styles from "./Welcome.style";
-import { icons } from "../../../constants";
-
+import { SIZES, icons } from "../../../constants";
+import { useRouter } from "expo-router";
+const jobTypes = ["Full-time","Part-time","Contractor",]
 const Welcome = () => {
+  const [activeJobType, setActiveJobType] = useState("Full-time");
+  router = useRouter();
   return (
     <View>
       <View style={styles.container}>
@@ -34,6 +37,25 @@ const Welcome = () => {
           style={styles.searchBtnImage}
           />
         </TouchableOpacity>
+      </View>
+      <View style={styles.tabsContainer}>
+        <FlatList 
+        data={jobTypes}
+        renderItem={( {item} ) => (
+          <TouchableOpacity
+          style={styles.tab(activeJobType, item )}
+          onPress={() => {
+            setActiveJobType(item);
+            // router.push(`/search/${item}`);
+          }}
+          >
+            <Text style={styles.tabText}>{item}</Text>
+          </TouchableOpacity>
+        )}
+        keyExtractor={ item => item}
+        contentContainerStyle={{columnGap : SIZES.small }}
+        horizontal
+        />
       </View>
     </View>
   );
