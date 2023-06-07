@@ -8,6 +8,7 @@ import {
 } from "react-native";
 import { useState } from "react";
 import styles from "./Welcome.style";
+import { icons } from "../../../constants";
 
 const Welcome = () => {
   return (
@@ -21,8 +22,18 @@ const Welcome = () => {
         <View style={styles.searchWrapper}>
           <TextInput 
           style={styles.searchInput}
+          value=""
+          onChange={() =>{}}
+          placeholder="What are you looking for?"
           />
         </View>
+        <TouchableOpacity style={styles.searchBtn} onPress={() =>{}}>
+          <Image 
+          source={icons.search}
+          resizeMode="contain"
+          style={styles.searchBtnImage}
+          />
+        </TouchableOpacity>
       </View>
     </View>
   );

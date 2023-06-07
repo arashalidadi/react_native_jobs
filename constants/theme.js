@@ -3,6 +3,7 @@ const COLORS ={
     white: "#F3F4F8",
     secondary: "#444262",
     primary: "#312651",
+    tertiary: "#FF7754",
 };
 
 const SIZES = {

@@ -38,6 +38,19 @@ const styles = StyleSheet.create({
     marginTop: SIZES.large,
     height: 50,
   },
+  searchBtnImage: {
+    width: "50%",
+    height: "50%",
+    tintColor: COLORS.white,
+  },
+  searchBtn: {
+    width: 50,
+    height: "100%",
+    backgroundColor: COLORS.tertiary,
+    borderRadius: SIZES.medium,
+    justifyContent: "center",
+    alignItems: "center",
+  },
 });
 
 export default styles;
